@@ -1,16 +1,14 @@
-# AI Assignment 1 – Search Algorithms
+# AI Assignments Repository
 
-## Overview
-This repository contains my solutions for Assignment 1 of the Artificial Intelligence course. The task was to solve two classic problems using both Breadth-First Search (BFS) and Depth-First Search (DFS) algorithms.
+This repository contains my solutions for assignments in the Artificial Intelligence course.
 
-### Problems Covered
-1. Bridge Crossing Problem – implemented in `Bridgecross.py`
-2. Rabbit Leap Problem – implemented in `Rabbitleap.py`
+Each assignment is placed in a separate folder with its own problem statements, Python programs, and instructions on how to run them.
 
-## How to Run the Programs
-Make sure you have Python 3 installed.  
-You can run the files using the following commands in your terminal or command prompt:
+## Contents
 
-```bash
-python Bridgecross.py
-python Rabbitleap.py
+- [Assignment 1 ](./Assignment1)
+
+## Submission Info
+
+- Course: Artificial Intelligence
+- Submitted by: Harsha4921
